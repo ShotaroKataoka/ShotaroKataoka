@@ -1,6 +1,13 @@
 # ShotaroKataoka
 ![Kataoka's github stats](https://github-readme-stats.vercel.app/api?username=ShotaroKataoka&count_private=true&show_icons=true&theme=radical)
 
+MyWorks:  
+- [Fuzzy-Explorer-on-Terminal](https://github.com/Fuzzy-Explorer/Fuzzy-Explorer-on-Terminal) : shell script
+- [Fuzzy-Git-Operator](https://github.com/ShotaroKataoka/Fuzzy-Git-Operator) : shell script
+- [ls-Improved](https://github.com/ShotaroKataoka/ls-Improved) : python package
+- [richcat](https://github.com/richcat-dev/richcat) : python package
+
+
 <!--
 **ShotaroKataoka/ShotaroKataoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
