@@ -1,11 +1,12 @@
 # ShotaroKataoka
 ![Kataoka's github stats](https://github-readme-stats.vercel.app/api?username=ShotaroKataoka&count_private=true&show_icons=true&theme=radical)
 
-MyWorks:  
-- [Fuzzy-Explorer-on-Terminal](https://github.com/Fuzzy-Explorer/Fuzzy-Explorer-on-Terminal) : shell script
-- [Fuzzy-Git-Operator](https://github.com/ShotaroKataoka/Fuzzy-Git-Operator) : shell script
-- [ls-Improved](https://github.com/ShotaroKataoka/ls-Improved) : python package
-- [richcat](https://github.com/richcat-dev/richcat) : python package
+:star:MyWorks:  
+- [RibbonCMS](https://github.com/RibbonCMS/RibbonCMS) : Python, Next.js, shell | WEB Contents Management System
+- [Fuzzy-Explorer-on-Terminal](https://github.com/Fuzzy-Explorer/Fuzzy-Explorer-on-Terminal) : shell | CLI tool
+- [Fuzzy-Git-Operator](https://github.com/ShotaroKataoka/Fuzzy-Git-Operator) : shell | CLI tool
+- [ls-Improved](https://github.com/ShotaroKataoka/ls-Improved) : Rust | CLI tool
+- [richcat](https://github.com/richcat-dev/richcat) : Python | CLI tool
 
 
 <!--
