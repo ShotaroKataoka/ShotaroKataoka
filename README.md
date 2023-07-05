@@ -1,13 +1,13 @@
 # ShotaroKataoka
-![Kataoka's github stats](https://github-readme-stats.vercel.app/api?username=ShotaroKataoka&count_private=true&show_icons=true&theme=radical)
+![Kataoka's GitHub stats](https://github-readme-stats-mu-mauve.vercel.app/api?username=ShotaroKataoka&count_private=true&show_icons=true&theme=radical)
 
-:star:MyWorks:  
-- [RibbonCMS](https://github.com/RibbonCMS/RibbonCMS) : Python, Next.js, shell | WEB Contents Management System
-- [Fuzzy-Explorer-on-Terminal](https://github.com/Fuzzy-Explorer/Fuzzy-Explorer-on-Terminal) : shell | CLI tool
-- [Fuzzy-Git-Operator](https://github.com/ShotaroKataoka/Fuzzy-Git-Operator) : shell | CLI tool
-- [ls-Improved](https://github.com/ShotaroKataoka/ls-Improved) : Rust | CLI tool
-- [richcat](https://github.com/richcat-dev/richcat) : Python | CLI tool
 
+:star:My Hobby Works:  
+[![RibbonCMS](https://github-readme-stats-mu-mauve.vercel.app/api/pin/?username=RibbonCMS&repo=RibbonCMS&theme=gruvbox)](https://github.com/RibbonCMS/RibbonCMS)
+[![Fuzzy-Explorer-on-Terminal](https://github-readme-stats-mu-mauve.vercel.app/api/pin/?username=Fuzzy-Explorer&repo=Fuzzy-Explorer-on-Terminal&theme=gruvbox)](https://github.com/Fuzzy-Explorer/Fuzzy-Explorer-on-Terminal)
+[![Fuzzy-Git-Operator](https://github-readme-stats-mu-mauve.vercel.app/api/pin/?username=ShotaroKataoka&repo=Fuzzy-Git-Operator&theme=gruvbox)](https://github.com/ShotaroKataoka/Fuzzy-Git-Operator)
+[![ls-Improved](https://github-readme-stats-mu-mauve.vercel.app/api/pin/?username=ShotaroKataoka&repo=ls-Improved&theme=gruvbox)](https://github.com/ShotaroKataoka/ls-Improved)
+[![richcat](https://github-readme-stats-mu-mauve.vercel.app/api/pin/?username=richcat-dev&repo=richcat&theme=gruvbox)](https://github.com/richcat-dev/richcat)
 
 <!--
 **ShotaroKataoka/ShotaroKataoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
