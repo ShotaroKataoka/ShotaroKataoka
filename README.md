@@ -4,10 +4,10 @@
 
 :star:My Hobby Works:  
 [![RibbonCMS](https://github-readme-stats-mu-mauve.vercel.app/api/pin/?username=RibbonCMS&repo=RibbonCMS&theme=gruvbox)](https://github.com/RibbonCMS/RibbonCMS)
-[![Fuzzy-Explorer-on-Terminal](https://github-readme-stats-mu-mauve.vercel.app/api/pin/?username=Fuzzy-Explorer&repo=Fuzzy-Explorer-on-Terminal&theme=gruvbox)](https://github.com/Fuzzy-Explorer/Fuzzy-Explorer-on-Terminal)
 [![Fuzzy-Git-Operator](https://github-readme-stats-mu-mauve.vercel.app/api/pin/?username=ShotaroKataoka&repo=Fuzzy-Git-Operator&theme=gruvbox)](https://github.com/ShotaroKataoka/Fuzzy-Git-Operator)
-[![ls-Improved](https://github-readme-stats-mu-mauve.vercel.app/api/pin/?username=ShotaroKataoka&repo=ls-Improved&theme=gruvbox)](https://github.com/ShotaroKataoka/ls-Improved)
+[![Fuzzy-Explorer-on-Terminal](https://github-readme-stats-mu-mauve.vercel.app/api/pin/?username=Fuzzy-Explorer&repo=Fuzzy-Explorer-on-Terminal&theme=gruvbox)](https://github.com/Fuzzy-Explorer/Fuzzy-Explorer-on-Terminal)
 [![richcat](https://github-readme-stats-mu-mauve.vercel.app/api/pin/?username=richcat-dev&repo=richcat&theme=gruvbox)](https://github.com/richcat-dev/richcat)
+[![ls-Improved](https://github-readme-stats-mu-mauve.vercel.app/api/pin/?username=ShotaroKataoka&repo=ls-Improved&theme=gruvbox)](https://github.com/ShotaroKataoka/ls-Improved)
 
 <!--
 **ShotaroKataoka/ShotaroKataoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
